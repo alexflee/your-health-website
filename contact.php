@@ -49,7 +49,7 @@
                   </div>
 
                   <div class="col-xs-12">
-                    <p>Comments</p>
+                    <p>Contact reason</p>
                     <div class="has-float-label">
                       <select>
                         <option value="0">Feedback</option>

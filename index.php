@@ -7,7 +7,7 @@
                 <div class="col-xs-12 col-sm-10 col-sm-push-1">
                     <h1 class="">Here for you</h1>
                     <h4>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque blandit erat ac ipsum accumsan pulvinar.</h4>
-                    <a href="whoweare.php" class="btn btn--primary left m-bottom--l m-top--l">Meet our team</a>
+                    <a href="contact.php" class="btn btn--primary left m-bottom--l m-top--l">Get in touch</a>
                 </div>
               </div>
             </div>

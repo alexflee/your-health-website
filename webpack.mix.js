@@ -12,7 +12,7 @@ mix.sass('library/scss/main.scss', 'library/css/main.css')
   });
 
   mix.browserSync({
-     proxy: 'http://localhost:8888/PERSONAL/yourhealth/',
+     proxy: 'http://localhost:8888/PERSONAL/yourhealth/your-health-website/',
      files: [
        '*.html',
        '*.php',
