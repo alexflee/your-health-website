@@ -1,0 +1,22 @@
+//****************
+// Section contact Syles
+//****************
+
+
+
+
+.contact{
+  text-align: center;
+
+  &__map{
+    width:100%;
+    height: 200px;
+  }
+
+  &__form{
+    p{
+      font-size: $f-xs;
+      font-weight: bold;
+    }
+  }
+}

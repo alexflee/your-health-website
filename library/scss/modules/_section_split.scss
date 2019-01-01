@@ -1,0 +1,18 @@
+//****************
+// Section split Syles
+//****************
+
+
+
+
+.split{
+  text-align: center;
+
+  @include tablet{
+    text-align: left;
+  }
+
+  &__text{
+    margin-bottom: $f-l;
+  }
+}

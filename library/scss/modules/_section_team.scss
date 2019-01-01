@@ -1,0 +1,40 @@
+//****************
+// Section team Syles
+//****************
+
+
+
+
+.team{
+  text-align: center;
+
+  &__member{
+    text-align: center;
+    background-color: $white;
+    border:1px solid $border;
+    border-radius: 3px;
+    padding:0px 15px 15px;
+    min-height: 380px;
+
+    &__image{
+      width:120px;
+      height: 120px;
+      margin: 40px auto 20px;
+      border-radius: 60px;
+      overflow: hidden;
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-position: center center;
+
+      &.jennifer{
+        background-image: url('../images/team/jennifer.png');
+      }
+      &.bob{
+        background-image: url('../images/team/bob.png');
+      }
+      &.fern{
+        background-image: url('../images/team/fern.png');
+      }
+    }
+  }
+}
